@@ -1,0 +1,5 @@
+{
+  "name": "AccessGuard University",
+  "description": "Un tableau de bord professionnel de contrôle d'accès biométrique pour la gestion des paiements étudiants.",
+  "requestFramePermissions": []
+}

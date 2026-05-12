@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "students": {
+      ".indexOn": ["biometricId", "status"]
+    },
+    "users": {
+      ".indexOn": ["matricule"]
+    }
+  }
+}
